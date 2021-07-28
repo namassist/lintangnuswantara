@@ -1,0 +1,17 @@
+#header-text .bg {
+  background-image: url("../images/bg.jpeg");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: cover;
+  opacity: 0.25;
+}
+#desc-img-text-4 .bg-wrap {
+  background-color: #f4f5f6;
+}
+#desc-halfbg-text-img-text-2 .bg {
+  background-image: url("../images/bg-fog-bottom.png");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: auto;
+  opacity: 0.2;
+}
